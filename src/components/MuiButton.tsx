@@ -8,7 +8,6 @@ import {
   ToggleButton,
 } from "@mui/material";
 import SendIcon from "@mui/icons-material/Send";
-import FormatBoldIcons from "@mui/icons-material/FormatBold";
 import FormatItalic from "@mui/icons-material/FormatItalic";
 import FormatUnderlined from "@mui/icons-material/FormatUnderlined";
 import FormatBold from "@mui/icons-material/FormatBold";
